@@ -1,0 +1,7 @@
+C:\Users\Mac\AppData\Local\Temporary Projects\CSharp_Eventos\bin\Debug\CSharp_Eventos.exe
+C:\Users\Mac\AppData\Local\Temporary Projects\CSharp_Eventos\bin\Debug\CSharp_Eventos.pdb
+C:\Users\Mac\AppData\Local\Temporary Projects\CSharp_Eventos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mac\AppData\Local\Temporary Projects\CSharp_Eventos\obj\x86\Debug\CSharp_Eventos.exe
+C:\Users\Mac\AppData\Local\Temporary Projects\CSharp_Eventos\obj\x86\Debug\CSharp_Eventos.pdb
+C:\Users\Mac\documents\visual studio 2010\Projects\CSharp_Eventos\CSharp_Eventos\obj\x86\Debug\CSharp_Eventos.exe
+C:\Users\Mac\documents\visual studio 2010\Projects\CSharp_Eventos\CSharp_Eventos\obj\x86\Debug\CSharp_Eventos.pdb
